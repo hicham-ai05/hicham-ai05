@@ -1,84 +1,115 @@
-<h1 align="center">🚀 Salut, moi c’est Hicham El Alaoui</h1>
-<h3 align="center">🎓 Stagiaire IA | 📊 Data Analyst | 📱 Développeur Mobile & Web | 🔐 Passionné Cybersécurité</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D310&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Hicham+El+Alaoui" />
+</h1>
+
+<h3 align="center" style="color:#00D310;">
+  Artificial Intelligence Enthusiast | Data Analyst | Mobile & Web Developer | Cybersecurity Learner | ETL & ML Engineer in Progress
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+profil+GitHub!;IA+%7C+Data+%7C+Mobile+%7C+Dev+FullStack;Toujours+en+apprentissage+et+création!&center=true&width=500&height=45&color=F7C71C&vCenter=true&size=22" />
+  <img src="https://profile-counter.glitch.me/hichamelalaoui/count.svg" alt="Profile Views"/>
 </p>
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-
----
-
-### 🚀 À propos de moi
-
-- 🔍 Actuellement **stagiaire en Intelligence Artificielle**  
-- 💻 Je code avec **Python**, **React Native**, **Flask**, et **Streamlit**
-- 📲 Je crée des **applications mobiles (APK)** avec Expo
-- 📊 Je travaille sur l’analyse de données avec Pandas, Numpy, Seaborn
-- 🌍 Projet IA actuel : **reconnaissance d'images de lieux touristiques marocains** 🇲🇦
-- 🧠 Passionné aussi par **l’explicabilité (XAI)**, la **fairness**, et l’**interface utilisateur moderne**
-
----
-
-### 🧰 Compétences & Outils
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![React Native](https://img.shields.io/badge/-React_Native-333?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
-
----
-
-### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hicham-ai05&show_icons=true&theme=merko" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-ai05&theme=merko" width="48%" />
+  <a target="_blank" rel="noopener">
+    <img align="center" alt="Coding Animation" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  </a>
 </p>
+
+<h3 align="center" style="color:#00D310;">Connect with me:</h3>
+
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://www.linkedin.com/in/hicham-el-alaoui" target="_blank" rel="noopener" >
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="52" alt="LinkedIn" />
+  </a>
+  <a href="mailto:elalaouihicham.dev@gmail.com" target="_blank" rel="noopener" >
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="52" height="52" alt="Gmail" />
+  </a>
+  <a href="https://discordid.netlify.app/?id=592208059099774976" target="_blank" rel="noopener" >
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="52" height="52" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/hichamelalaoui" target="_blank" rel="noopener" >
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="52" height="52" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/hichamelalaoui" target="_blank" rel="noopener" >
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="52" height="52" alt="Instagram" />
+  </a>
+</div>
+
+<h3 align="center" style="color:#00D310;">Certification Badges:</h3>
+<div style="display:flex; justify-content:center; gap: 15px; margin-bottom: 30px;">
+  <a href="https://www.credly.com/badges/37d07a2e-5ae7-4963-9a74-2a8cdc208234/public_url" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100" alt="GitHub Foundation Badge" />
+  </a>
+  <!-- تقدر تزيد بزاف ديال البادجات هنا -->
+</div>
 
 ---
 
-### 🔍 Langages les plus utilisés
+### 🚀 About Me
+
+- 🌱 I'm currently learning **Artificial Intelligence, Cybersecurity, ETL, Machine Learning, Deep Learning, and SQL**
+- 💻 I develop using **Python, React Native, Flask, Streamlit, MySQL, PostgreSQL**
+- 📊 Data analysis with **Pandas, NumPy, Seaborn, Matplotlib**
+- 📱 Mobile Apps (APK) development with **Expo React Native**
+- 🧠 AI Project: Moroccan Tourist Places Image Recognition
+- 🔐 Interested in cybersecurity and data protection
+
+---
+
+### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-ai05&layout=compact&theme=dracula" width="50%" />
+  <img src="https://skillicons.dev/icons?i=python,react,flask,streamlit,mysql,postgres,git,pandas,numpy,seaborn,tensorflow,keras,scikit,etl,sql" />
 </p>
 
 ---
 
-### 🐍 Snake Contribution Graph
+### 📈 GitHub Stats
 
-![snake gif](https://github.com/hicham-ai05/hicham-ai05/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🏆 Réalisations
-
-- 🧠 Projet IA d’identification des lieux via images 📸
-- 📱 Génération d’APK Android en React Native
-- 🎯 Déploiement Flask API & Streamlit en ligne
-- 📈 Dashboards de visualisation statistique (Matplotlib, Seaborn)
-- 🔐 Projet XAI + FairAI + Streamlit UI moderne
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hichamelalaoui&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hichamelalaoui&theme=dark" width="48%" />
+</p>
 
 ---
 
-### 🌐 Me contacter
+### 🔥 Top Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hicham-ai05)  
-[![Discord](https://img.shields.io/badge/Discord-Hicham%232343-5865F2?style=flat-square&logo=discord)](https://discordid.netlify.app/?id=592208059099774976)  
-[![Email](https://img.shields.io/badge/Email-elalaouihicham.dev@gmail.com-red?style=flat-square&logo=gmail)](mailto:elalaouihicham.dev@gmail.com)
-
----
-
-> 🧠 *“Apprends. Pratique. Partage. Progresse.”*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichamelalaoui&layout=compact&theme=dark" width="50%" />
+</p>
 
 ---
 
-### ⚡ Fun Fact:
-```txt
-Je peux transformer une image de ton téléphone en prédiction IA + résumé Wikipédia + position Google Maps 😎
+### 🏆 Achievements
+
+- 🧠 AI project: Image recognition of Moroccan tourist places  
+- 📱 Developed React Native apps and generated APKs  
+- 🚀 Deployed Flask APIs and Streamlit dashboards  
+- 📊 Created interactive dashboards with Matplotlib and Seaborn  
+
+---
+
+### ⚡ Fun Fact
+
+> "The future belongs to those who learn, innovate and share knowledge."
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xdweeb/xdweeb/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<div align="center" style="margin: 30px 0;">
+  <p>
+    Interested in collaboration or questions? <br />
+    <a href="mailto:elalaouihicham.dev@gmail.com" style="color:#00D310;">Contact Me</a>  
+  </p>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D310&height=60&section=footer" />
+</p>
