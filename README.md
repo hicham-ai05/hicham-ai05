@@ -37,8 +37,8 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HichamElAlaoui&show_icons=true&theme=merko" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamElAlaoui&theme=merko" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hicham-ai05&show_icons=true&theme=merko" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-ai05&theme=merko" width="48%" />
 </p>
 
 ---
@@ -46,14 +46,14 @@
 ### 🔍 Langages les plus utilisés
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamElAlaoui&layout=compact&theme=dracula" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-ai05&layout=compact&theme=dracula" width="50%" />
 </p>
 
 ---
 
 ### 🐍 Snake Contribution Graph
 
-![snake gif](https://github.com/HichamElAlaoui/HichamElAlaoui/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/hicham-ai05/hicham-ai05/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -69,7 +69,7 @@
 
 ### 🌐 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hicham-ai)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hicham-ai05)  
 [![Discord](https://img.shields.io/badge/Discord-Hicham%232343-5865F2?style=flat-square&logo=discord)](https://discordid.netlify.app/?id=592208059099774976)  
 [![Email](https://img.shields.io/badge/Email-elalaouihicham.dev@gmail.com-red?style=flat-square&logo=gmail)](mailto:elalaouihicham.dev@gmail.com)
 
