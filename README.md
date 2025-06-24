@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#00D310;">
-  Artificial Intelligence Enthusiast | Data Analyst | Mobile & Web Developer | Cybersecurity Learner | ETL & ML Engineer in Progress
+  Artificial Intelligence Enthusiast 🤖 | Data Analyst 📊 | Mobile & Web Developer 📱 | Cybersecurity Learner 🔐 | ETL & ML Engineer in Progress 🚀
 </h3>
 
 <p align="center">
@@ -41,27 +41,30 @@
   <a href="https://www.credly.com/badges/37d07a2e-5ae7-4963-9a74-2a8cdc208234/public_url" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100" alt="GitHub Foundation Badge" />
   </a>
-  <!-- تقدر تزيد بزاف ديال البادجات هنا -->
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 I'm currently learning **Artificial Intelligence, Cybersecurity, ETL, Machine Learning, Deep Learning, and SQL**
-- 💻 I develop using **Python, React Native, Flask, Streamlit, MySQL, PostgreSQL**
-- 📊 Data analysis with **Pandas, NumPy, Seaborn, Matplotlib**
-- 📱 Mobile Apps (APK) development with **Expo React Native**
-- 🧠 AI Project: Moroccan Tourist Places Image Recognition
-- 🔐 Interested in cybersecurity and data protection
+- 🌱 Currently learning: **Artificial Intelligence, Cybersecurity, ETL, Machine Learning, Deep Learning, SQL**
+- 💻 Tech stack: **Python, React, Flask, Streamlit, MySQL, PostgreSQL, Pandas, NumPy, TensorFlow**
+- 📱 Developed React Native mobile apps and deployed Flask APIs
+- 🧠 AI projects focused on image recognition & data analytics
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Skills & Levels
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,flask,streamlit,mysql,postgres,git,pandas,numpy,seaborn,tensorflow,keras,scikit,etl,sql" />
-</p>
+| Skill       | Level         |
+|-------------|---------------|
+| Python      | ██████████ 90%|
+| SQL         | █████████ 80% |
+| Machine Learning | ████████ 75%|
+| Deep Learning | ███████ 70%  |
+| ETL         | ███████ 70%   |
+| React Native| ██████ 60%    |
+| Flask       | ██████ 60%    |
 
 ---
 
@@ -84,16 +87,14 @@
 
 ### 🏆 Achievements
 
-- 🧠 AI project: Image recognition of Moroccan tourist places  
-- 📱 Developed React Native apps and generated APKs  
+- 🧠 AI project: Moroccan tourist places image recognition  
+- 📱 React Native apps with APK generation  
 - 🚀 Deployed Flask APIs and Streamlit dashboards  
-- 📊 Created interactive dashboards with Matplotlib and Seaborn  
+- 📊 Data visualization with Matplotlib & Seaborn  
 
 ---
 
-### ⚡ Fun Fact
-
-> "The future belongs to those who learn, innovate and share knowledge."
+> <p align="center" style="font-style: italic; color:#00D310;">“The future belongs to those who learn, innovate, and share knowledge.”</p>
 
 ---
 
